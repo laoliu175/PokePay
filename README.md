@@ -6,10 +6,10 @@ PokePay 是一家总部设在中国香港的基于数币的金融加密支付平
 ![image](https://github.com/vbppxge/PokePay/assets/157678866/34daba67-1663-41f3-9d28-a30d16e9c1a4)
 
 ## PokePay 官网地址
-[www.pokepay.cc](https://app.pokepay.cc/pages/passport/invitation?r=140138)
+[www.pokepay.cc](https://app.pokepay.cc/pages/passport/register?r=174407)
 
 ## PokePay 优惠码
-使用优惠码 [POKE2024](https://app.pokepay.cc/pages/passport/invitation?r=140138)，新用户注册可享受首次开卡优惠。
+使用优惠码 [POKE2024](https://app.pokepay.cc/pages/passport/register?r=174407)，新用户注册可享受首次开卡优惠。
 
 ## PokePay 怎么样
 PokePay 提供了可靠的加密支付解决方案，并且具备以下特点：
